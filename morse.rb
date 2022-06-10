@@ -1,5 +1,5 @@
 def decode_char(char)
-    morse_dict = {
+  morse_dict = {
       '.-' => 'A',
       '-...' => 'B',
       '-.-.' => 'C',
